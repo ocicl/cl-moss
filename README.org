@@ -1,0 +1,10 @@
+* cl-moss
+
+Common Lisp submission mechanism for Stanford's MOSS similarity detection system
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/wsgac/cl-moss.git   |
+| commit  | caa7357  |
+| systems | cl-moss |
+|---------+-------------------------------------------|
+
